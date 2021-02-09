@@ -1,2 +1,2 @@
 # kattis-problems
-open.kattis solutions for problems
+https://open.kattis.com/ solutions for problems
