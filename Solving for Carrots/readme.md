@@ -1,0 +1,1 @@
+![problem-image](https://github.com/yusernamey/kattis-problems/blob/main/Solving for Carrots/Capture.JPG)
