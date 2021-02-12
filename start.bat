@@ -1,2 +1,0 @@
-node readme.js
-
