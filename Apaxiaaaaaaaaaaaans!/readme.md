@@ -1,1 +1,1 @@
-![problem-image](https://github.com/yusernamey/kattis-problems/blob/main/folder-name/image-name.JPG)
+![problem-image](https://github.com/yusernamey/kattis-problems/blob/main/Apaxiaaaaaaaaaaaans!/Capture.JPG)
