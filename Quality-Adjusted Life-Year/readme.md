@@ -1,0 +1,1 @@
+![problem-image](https://github.com/yusernamey/kattis-problems/blob/main/Quality-Adjusted Life-Year/Capture.JPG)
